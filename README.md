@@ -1,4 +1,6 @@
-# Tema1_CEU
+# Tema1_CEU ejercicios sin corregir 
+
+https://github.com/jaimecortezon/Tema1_CEU.git
 
 ## Ejercicio 1
 
