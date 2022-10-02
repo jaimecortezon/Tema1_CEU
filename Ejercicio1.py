@@ -1,1 +1,3 @@
-print("Hola")
+cadena = "zeréP nauJ,01"
+c = cadena[::-1].split( ',')
+print(c[1]+" ha sacado un "+ c[0]+ " de nota.")
